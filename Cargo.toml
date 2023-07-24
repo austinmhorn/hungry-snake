@@ -1,0 +1,8 @@
+[package]
+name = "hungry-snake"
+version = "0.1.0"
+authors = ["Austin Horn <austinhorn2572@gmail.com>"]
+edition = "2023"
+
+[dependencies]
+sdl2 = "0.32.1"
